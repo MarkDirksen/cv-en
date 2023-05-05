@@ -1,6 +1,6 @@
 _Name: Mark Dirksen  
 Place of residence: Ede, The Netherlands  
-Geboortjaar: 1989_  
+Birth year: 1989_  
 
 ## Experience
 ### Data scientist - Visma  
