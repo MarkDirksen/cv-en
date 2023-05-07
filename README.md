@@ -10,7 +10,7 @@ Since 2020 I have been working as a data scientist on the automation of processe
 
 A more recent project is a reporting tool that can be used to search documents using the latest NLP techniques. Those results are then automatically rewritten into a piece of text for reporting purposes. Important here is the trade-off between accuracy and the lead time of the process.  
 
-Our team is also responsible for helping Team Jumbo-Visma with machine learning solutions. For the cycling team we provide a calorie prediction and a talent identification solution. We are working with students from the University of Maastricht to further develop this. As part of this I supervise the students during their internship period and with the graduation thesis.  
+Our team is also responsible for helping Team Jumbo-Visma with machine learning solutions. For the cycling team we provide a calorie prediction and a talent identification solution. We are working with students from the University of Maastricht to further develop this. As part of this I have supervised the students during their internship period and with the their thesis.  
 
 ### Data modeler (XBRL) - Thauris / EBPI / Visma  
 _March 2016 - January 2020_
