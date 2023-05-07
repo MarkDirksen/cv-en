@@ -6,18 +6,18 @@ Birth year: 1989_
 ### Data scientist - Visma  
 _January 2020 - Now_
 
-Sinds 2020 werk ik als data scientist aan de automatisering van processen d.m.v. machine learning. De werkzaamheden betrekken het hele proces, van data exploratie en model training tot het integreren met de nodige systemen. Een voorbeeld hiervan is de ticket classificatie oplossing die de service desk ontziet van het toekennen van 300 tickets per week. Deze oplossing zal nu voor meerdere bedrijven ingezet gaan worden.  
+Since 2020 I have been working as a data scientist on the automation of processes by means of machine learning. The work involves the entire process, from data exploration and model training to integration with the necessary systems. An example of this is the ticket classification solution that spares the service desk from allocating 300 tickets per week.  
 
-Een recent project is het opzetten van een rapportage tool wat gebruikt kan worden om documenten te doorzoeken met behulp van de nieuwste NLP technieken. Die resultaten worden vervolgens automatisch herschreven naar een stuk tekst voor rapportage doeleinden. Belangrijk hier is de afweging tussen accuuraatheid en de doorlooptijd van het proces. 
+A more recent project is a reporting tool that can be used to search documents using the latest NLP techniques. Those results are then automatically rewritten into a piece of text for reporting purposes. Important here is the trade-off between accuracy and the lead time of the process.  
 
-Tevens is ons team verantwoordelijk voor het helpen van Team Jumbo-Visma met machine learning oplossingen. Voor het wielren team leveren wij een calorie prediction en een talent identification oplossing. Wij werken samen met studenten van de Universiteit van Maastricht om hier verder aan te ontwikkelen. Als onderdeel hiervan begeleid ik de studenten in hun stage periode en bij de afstudeerscriptie. 
+Our team is also responsible for helping Team Jumbo-Visma with machine learning solutions. For the cycling team we provide a calorie prediction and a talent identification solution. We are working with students from the University of Maastricht to further develop this. As part of this I supervise the students during their internship period and with the graduation thesis.  
 
 ### Data modeler (XBRL) - Thauris / EBPI / Visma  
 _March 2016 - January 2020_
 
-XBRL is een op XML gebaseerde specificatie voor het uitwisselen van data. Met XBRL wordt vastgelegd wat en hoe gerapporteerd moet worden. Als data modeler was ik verantwoordelijk voor het opleveren van technisch en inhoudelijk hoogstaande XBRL. De focus lag voor mij altijd op het blijven ontwikkelen van werkprocessen om de efficiëntie en kwaliteit van het eindproduct te verhogen.
+XBRL is an XML-based specification for data exchange. XBRL defines what and how to report. As a data modeler I was responsible for delivering technically and substantively high-quality XBRL. For me, the focus has always been on continuing to develop work processes to increase the efficiency and quality of the end product.  
 
-Naast mijn werkzaamheden als data modeler ben ik tijdens deze periode product owner geweest van een XBRL ontwikkeling tool. Deze tool moest blijven voldoen aan de verwachtingen bij het ontwerpen van steeds grotere en complexe XBRL. Als er tegen de limieten van de software opgelopen werd was het van belang creatief te zijn om toch een oplossing te vinden.
+In addition to my work as a data modeler, I was the product owner of an XBRL development tool during this period. This tool had to continue to meet expectations when designing increasingly larger and complex XBRL. If the limits of the software were encountered, it was important to be creative to find a solution.  
 
 ## Skills
 - **Python**  
